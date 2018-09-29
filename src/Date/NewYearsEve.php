@@ -2,7 +2,7 @@
 
 namespace JGI\DanishDates\Date;
 
-class NewYearsEve extends \JGI\SwedishDates\Date\NewYearsDay
+class NewYearsEve extends \JGI\SwedishDates\Date\NewYearsEve
 {
     /**
      * {@inheritdoc}
