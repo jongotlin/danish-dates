@@ -9,6 +9,6 @@ class FirstOfAdvent extends \JGI\SwedishDates\Date\FirstOfAdvent
      */
     public function getName(): string
     {
-        return 'Første Advent';
+        return '1. Advent';
     }
 }

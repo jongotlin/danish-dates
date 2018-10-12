@@ -9,6 +9,6 @@ class SecondOfAdvent extends \JGI\SwedishDates\Date\SecondOfAdvent
      */
     public function getName(): string
     {
-        return 'Anden advent';
+        return '2. advent';
     }
 }

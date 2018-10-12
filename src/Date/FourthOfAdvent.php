@@ -9,6 +9,6 @@ class FourthOfAdvent extends \JGI\SwedishDates\Date\FourthOfAdvent
      */
     public function getName(): string
     {
-        return 'Fjerde advent';
+        return '4. advent';
     }
 }

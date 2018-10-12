@@ -17,7 +17,7 @@ class MaundyThursday extends \JGI\SwedishDates\Date\MaundyThursday
      */
     public function isRed(): bool
     {
-        return false;
+        return true;
     }
 
     /**
@@ -25,6 +25,6 @@ class MaundyThursday extends \JGI\SwedishDates\Date\MaundyThursday
      */
     public function isHoliday(): bool
     {
-        return false;
+        return true;
     }
 }
