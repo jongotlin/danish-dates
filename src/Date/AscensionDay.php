@@ -9,6 +9,6 @@ class AscensionDay extends \JGI\SwedishDates\Date\AscensionDay
      */
     public function getName(): string
     {
-        return 'Kristi Himmelfartsdag';
+        return 'Kristi himmelfartsdag';
     }
 }
